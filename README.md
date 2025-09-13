@@ -242,4 +242,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If this project helped you, please give it a star!**
 
-Made by [Your Name](https://github.com/thummasaikrishna)
+Made by [Thumma Sai Krishna](https://github.com/thummasaikrishna)
